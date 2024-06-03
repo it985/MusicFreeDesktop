@@ -1,11 +1,22 @@
 # MusicFree 桌面版
 
+## 本项目基于 GPL 3.0 协议开源，不禁止二次分发，但使用代码时请遵守如下规则：
+
+1. 二次分发版必须同样遵循 GPL 3.0 协议，**开源且免费**
+2. **合法合规使用代码，禁止用于商业用途; 修改后的软件造成的任何问题由使用此代码的开发者承担**
+3. 打包、二次分发 **请保留代码出处**：https://github.com/maotoumao/MusicFree
+4. 如果使用此代码的开发者不同意以上三条，则视为 **二次分发版遵守 CC0 协议**
+5. 如果开源协议变更，将在此 Github 仓库更新，不另行通知
+
+---
+
 ## 简介
 
 一个插件化、定制化、无广告的免费音乐播放器。
 > 当前测试版支持 windows 和 macos x64；macos m1/m2 和 linux 可自行打包。
 
 <img src="./src/assets/imgs/wechat_channel1.png" height="144px" title="微信公众号" style="display:inherit;"/>
+
 
 ### 下载地址
 
